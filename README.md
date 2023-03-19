@@ -10,7 +10,7 @@
   <img align="center" alt="Emanuel-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Emanuel-Html" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img align="right" alt="Emanuel-pic" height="150" style="border-radius:50px;" 
-  src="https://i.pinimg.com/originals/25/f5/0b/25f50bca01a360d940cf512d2b336871.gif ">
+  src="https://i.pinimg.com/originals/25/f5/0b/25f50bca01a360d940cf512d2b336871.gif">
 </div>
   
   ##
